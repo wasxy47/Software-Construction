@@ -1,9 +1,3 @@
-That's great\! Having the file names confirms the structure and helps make the `README` even more precise and professional.
-
-Here is the final, comprehensive `README.md` file in English, incorporating the names of the files from your VS Code structure image.
-
------
-
 ## 🏗️ SCD - Assignment 1: UML Diagrams Implementation in Java
 
 [cite\_start]This repository contains the Java implementation for **Assignment \#1** of the **Software Construction and Development (SCD)** course at **Iqra University**[cite: 7, 9]. [cite\_start]The goal was to implement four specific UML Class Diagrams using **Classes** and **Interfaces** [cite: 13][cite\_start], applying **clean code principles** [cite: 15] throughout the construction.
